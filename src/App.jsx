@@ -1,4 +1,4 @@
-import './index.css'
+import './styles/index.scss'
 
 function App() {
   return (
@@ -11,3 +11,4 @@ function App() {
 }
 
 export default App
+
